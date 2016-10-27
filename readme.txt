@@ -1,5 +1,7 @@
 Readme.txt (Panorama)
 
+https://cdn.rawgit.com/brentonmallen1/brentonmallen1.github.io/master/pano.html
+
 —————————————————————
 Content:
 
